@@ -5,3 +5,7 @@ p {
 img {
     border-radius: 40px;
 }
+
+.footer {
+    background-color: azure;
+}
